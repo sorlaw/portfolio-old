@@ -1,0 +1,23 @@
+.profile-image {
+  width: 250px;
+  margin-top: -50px;
+  margin-bottom: -50px;
+}
+
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #e2edff;
+}
+
+#About:hover,
+#Project:hover,
+#Contact:hover,
+#Home:hover {
+  color: aqua;
+}
+#project {
+  background-color: #e2edff;
+}
+a {
+  text-decoration: none;
+}
